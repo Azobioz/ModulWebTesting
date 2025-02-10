@@ -1,6 +1,5 @@
 package org.example;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -11,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static java.time.Duration.ofMillis;
 
-public class Tests {
+public class KT2 {
 
     WebDriver driver;
 
